@@ -26,6 +26,7 @@ p, li { white-space: pre-wrap; }
             <cDefine></cDefine>
         </fw_3.64>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <fw_4.00>
             <longName>Firmware 4.00</longName>
             <type>0</type>
@@ -48,6 +49,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Warning: Your VESC has firmware version 4.01, which would sometimes result in faulty motor detection, causing wobbles or weird behavior at certain speeds. If you did motor detection on FW 4.00 or 4.01, it is strongly advised to upgrade to at least firmware 4.02 and redo motor detection.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description>
             <cDefine></cDefine>
         </fw_4.01>
+=======
+>>>>>>> parent of 8625bf4... Merge branch 'master' into dev_ver_2_04
 =======
 >>>>>>> parent of 8625bf4... Merge branch 'master' into dev_ver_2_04
     </Params>
